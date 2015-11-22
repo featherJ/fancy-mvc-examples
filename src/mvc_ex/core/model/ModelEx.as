@@ -6,7 +6,8 @@ package mvc_ex.core.model
 	import mvc_ex.core.CommonView;
 
 	/**
-	 * 针对应用程序的数据层扩展 
+	 * 数据层扩展 
+	 * Expand the Model
 	 * @author featherJ
 	 * 
 	 */	
@@ -17,6 +18,7 @@ package mvc_ex.core.model
 		}
 		/**
 		 * 公用数据 
+		 * common data layer
 		 */
 		public function get commonData():CommonData
 		{
@@ -24,6 +26,7 @@ package mvc_ex.core.model
 		}
 		/**
 		 * 公用视图 
+		 * common view layer
 		 */
 		public function get commonView():CommonView
 		{

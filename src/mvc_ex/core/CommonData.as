@@ -1,7 +1,8 @@
 package mvc_ex.core
 {
 	/**
-	 * 公共数据层 
+	 * 公共数据层
+	 * Common data layer
 	 * @author featherJ
 	 * 
 	 */	

@@ -6,7 +6,8 @@ package mvc_ex.core.mediator
 	import mvc_ex.core.CommonView;
 
 	/**
-	 * 针对应用程序的中介者扩展 
+	 * 中介者扩展 
+	 * Expand the Mediator
 	 * @author featherJ
 	 * 
 	 */	
@@ -16,7 +17,8 @@ package mvc_ex.core.mediator
 		{
 		}
 		/**
-		 * 公用数据 
+		 * 公用数据
+		 * common data layer
 		 */
 		public function get commonData():CommonData
 		{
@@ -24,6 +26,7 @@ package mvc_ex.core.mediator
 		}
 		/**
 		 * 公用视图 
+		 * common view layer
 		 */
 		public function get commonView():CommonView
 		{

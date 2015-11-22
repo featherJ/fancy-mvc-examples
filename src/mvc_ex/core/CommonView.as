@@ -1,7 +1,8 @@
 package mvc_ex.core
 {
 	/**
-	 * 公共视图层 
+	 * 公共视图层
+	 * Common view layer 
 	 * @author featherJ
 	 * 
 	 */	
